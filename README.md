@@ -4,5 +4,5 @@
 [![NateHartley's GitHub stats](https://github-readme-stats.vercel.app/api?username=natehartley)](https://github.com/natehartley/github-readme-stats)
 
 <a href="https://tryhackme.com/p/nhartley">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/nhartley.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nhartley.png?style=flat&cache-control=no-cache" alt="TryHackMe">
 </a>
