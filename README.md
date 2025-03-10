@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,bash,powershell,windows,apple,linux,debian,kali,ubuntu,mint,vscode,html,css,js,ts,git,github,bitbucket)](https://skillicons.dev)
 
 <a href="https://tryhackme.com/p/nhartley">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/nhartley.png" alt="Your Image Badge" />
+  
 </a>
 
 ![NateHartley's GitHub stats](https://github-readme-stats.vercel.app/api?username=natehartley&theme=merko&show_icons=true&rank_icon=github)
