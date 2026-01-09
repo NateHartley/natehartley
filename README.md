@@ -12,3 +12,5 @@
 </a>
 
 ![NateHartley's GitHub stats](https://github-readme-stats.vercel.app/api?username=natehartley&theme=merko&show_icons=true&rank_icon=github)
+
+[![NateHartley's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateHartley)](https://github.com/NateHartley/github-readme-stats)
